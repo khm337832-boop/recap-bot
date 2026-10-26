@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+*.env
+admin_voice_clones.json
+voice_refs/
+publish_cache/
+*.pcm
+*.wav
+*.mp3
+*.mp4
+*.jpg
+*.png
+.DS_Store
